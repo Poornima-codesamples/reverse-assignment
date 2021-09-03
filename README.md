@@ -33,11 +33,11 @@ docker push hub-username/repo-name:<tag>
 	
  1. Download the image from docker hub using the below command
  
-	docker pull <hub-username>/assignment:latest
+	docker pull poornirendocker/assignment:latest
 	
  2. Run the image with below command
     
-    docker run -p 8086:8086 <hub-username>/assignment 	
+    docker run -p 8086:8086 poornirendocker/assignment 	
 	
  ## run the application:
 
